@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import local from '../../data/local';
 import './App.css';
+// import Menu from '../../components/Menu';
+// import '../../components/Menu.css';
 
 class App extends Component {
   constructor() {
@@ -13,7 +15,7 @@ class App extends Component {
   render () {
     return (
       <div className="app">
-        YOUR CODE GOES HERE!
+        jim jim jim
       </div>
     );
   }
